@@ -1,0 +1,2 @@
+printf("asfasf")
+print(asfasdf)
